@@ -1,1 +1,1 @@
-**CS & Physics student focused on Embedded Systems and Hardware-Software Co-Design. Python / Java / C,C++**
+**CS/Physics student. Focused on Embedded Systems and Hardware-Software Co-Design. Python / Java / C,C++**
